@@ -1,16 +1,26 @@
-### Hi there 👋
+<h2> Hi, I'm Gianfranco Raselli 👋</h2>
+<p>
+  <em>
+    Information Systems Engineering student at <a href="https://www.utn.edu.ar/es/">National Technological University</a>
+    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+  </em>
+</p>
+<p>
+  <em>
+    20 Years Old
+  </em>
+</p>
 
-<!--
-**GianfrancoRaselli/GianfrancoRaselli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub GianfrancoRaselli](https://img.shields.io/github/followers/GianfrancoRaselli?label=follow&style=social)](https://github.com/GianfrancoRaselli)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little more about me...  
+
+```javascript
+const gianfranco = {
+  frontend: [HTML, CSS, JavaScript, Bootstrap, Angular, Vue],
+  backend: [Java, C#, PHP, JavaScript, TypeScript, Python, NodeJS, ExpressJS],
+  database: [MySQL, SQL Server],
+  tools: [Git, GitHub, Node, Visual Studio Code, Visual Studio]
+}
+```
