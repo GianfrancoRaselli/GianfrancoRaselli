@@ -22,7 +22,7 @@ const gianfranco = {
   backend: ['Java', 'C#', 'PHP', 'JavaScript', 'TypeScript', 'Python', 'NodeJS', 'ExpressJS'],
   database: ['MySQL', 'SQL Server'],
   tools: ['Git', 'GitHub', 'Node', 'Visual Studio Code', 'Visual Studio'],
-  languages: ['Spanish, 'English'],
+  languages: ['Spanish', 'English'],
   hobbies: ['Programming', 'Sports']
 }
 ```
