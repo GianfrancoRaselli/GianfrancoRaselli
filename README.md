@@ -21,7 +21,7 @@ const gianfranco = {
   frontend: ['HTML', 'CSS', 'JavaScript', 'Bootstrap', 'Angular', 'Vue'],
   backend: ['Java', 'C#', 'PHP', 'Laravel', 'JavaScript', 'TypeScript', 'NodeJS', 'ExpressJS', 'Python'],
   database: ['MySQL', 'SQL Server'],
-  tools: ['Git', 'GitHub', 'Postman', 'Visual Studio', 'Visual Studio Code', 'Sublime Text'],
+  tools: ['Git', 'GitHub', 'Postman', 'Visual Studio', 'Visual Studio Code', 'Sublime Text', 'PyCharm'],
   languages: ['Spanish', 'English'],
   hobbies: ['Programming', 'Sports']
 }
