@@ -2,7 +2,6 @@
 <p>
   <em>
     Information Systems Engineering student at <a href="https://www.utn.edu.ar/es/">National Technological University</a>
-    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </em>
 </p>
 <p>
