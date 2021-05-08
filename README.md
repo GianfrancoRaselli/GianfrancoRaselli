@@ -18,9 +18,9 @@
 
 ```javascript
 const gianfranco = {
-  frontend: ['HTML', 'CSS', 'JavaScript', 'Bootstrap', 'Angular', 'Vue'],
-  backend: ['Java', 'C#', 'PHP', 'Laravel', 'JavaScript', 'TypeScript', 'NodeJS', 'ExpressJS', 'Python'],
-  database: ['MySQL', 'SQL Server'],
+  frontend: ['HTML', 'CSS', 'JavaScript', 'Bootstrap', 'Angular', 'VueJS'],
+  backend: ['Java', 'C#', 'PHP', 'Laravel', 'JavaScript', 'TypeScript', 'NodeJS', 'ExpressJS', 'Python', 'Graphql'],
+  database: ['MySQL', 'SQL Server', 'MongoDB'],
   tools: ['Git', 'GitHub', 'Postman', 'Visual Studio', 'Azure DevOps', 'Visual Studio Code', 'Sublime Text', 'PyCharm'],
   languages: ['Spanish', 'English'],
   hobbies: ['Programming', 'Sports']
