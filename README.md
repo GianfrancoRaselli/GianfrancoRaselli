@@ -6,7 +6,7 @@
 </p>
 <p>
   <em>
-    20 Years Old
+    21 Years Old
   </em>
 </p>
 
@@ -22,6 +22,6 @@ const gianfranco = {
   database: ['MySQL', 'SQL Server', 'MongoDB'],
   tools: ['Git', 'GitHub', 'Postman', 'Visual Studio', 'Azure DevOps', 'Visual Studio Code', 'Sublime Text', 'PyCharm'],
   languages: ['Spanish', 'English'],
-  hobbies: ['Programming', 'Sports']
+  hobbies: ['Programming', 'Cryptos', 'Sports']
 }
 ```
