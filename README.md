@@ -20,7 +20,8 @@ const gianfranco = {
   frontend: ['HTML', 'CSS', 'JavaScript', 'Bootstrap', 'Angular', 'VueJS'],
   backend: ['Java', 'C#', 'PHP', 'Laravel', 'JavaScript', 'TypeScript', 'NodeJS', 'ExpressJS', 'Python', 'Graphql'],
   database: ['MySQL', 'SQL Server', 'MongoDB'],
-  tools: ['Git', 'GitHub', 'Postman', 'Visual Studio', 'Azure DevOps', 'Visual Studio Code', 'Sublime Text', 'PyCharm'],
+  tools: ['Git', 'GitHub', 'Postman', 'Visual Studio', 'Visual Studio Code'],
+  blockchain: ['Ethereum', 'Solidity'],
   languages: ['Spanish', 'English'],
   hobbies: ['Programming', 'Cryptos', 'Sports']
 }
