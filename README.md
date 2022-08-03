@@ -18,10 +18,10 @@
 ```javascript
 const gianfranco = {
   frontend: ['HTML', 'CSS', 'JavaScript', 'Bootstrap', 'Angular', 'VueJS'],
-  backend: ['Java', 'C#', 'PHP', 'Laravel', 'JavaScript', 'TypeScript', 'NodeJS', 'ExpressJS', 'Python', 'Graphql'],
+  backend: ['Java', 'C#', 'PHP', 'Laravel', 'JavaScript', 'TypeScript', 'NodeJS', 'ExpressJS', 'Python', 'Graphql', 'Golang'],
   database: ['MySQL', 'SQL Server', 'MongoDB'],
   tools: ['Git', 'GitHub', 'Postman', 'Visual Studio', 'Visual Studio Code'],
-  blockchain: ['Ethereum', 'Solidity'],
+  blockchain: ['Ethereum', 'Solidity', 'Web3'],
   languages: ['Spanish', 'English'],
   hobbies: ['Programming', 'Cryptos', 'Sports']
 }
