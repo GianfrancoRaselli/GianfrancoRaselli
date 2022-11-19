@@ -16,7 +16,7 @@
 ### A little more about me...  
 
 ```javascript
-const gianfranco = {
+const GIANFRANCO = {
   frontend: ['HTML', 'CSS', 'JavaScript', 'Bootstrap', 'Angular', 'VueJS'],
   backend: ['Java', 'C#', 'PHP', 'Laravel', 'JavaScript', 'TypeScript', 'NodeJS', 'ExpressJS', 'Python', 'Graphql', 'Golang'],
   database: ['MySQL', 'SQL Server', 'MongoDB'],
