@@ -1,7 +1,7 @@
 <h2> Hi, I'm Gianfranco Raselli 👋</h2>
 <p>
   <em>
-    Software engineer graduated from <a href="https://www.utn.edu.ar/es/">Universidad Tecnológica Nacional</a>.
+    Software Engineer graduated from <a href="https://www.utn.edu.ar/es/">Universidad Tecnológica Nacional</a>.
   </em>
 </p>
 <p>
