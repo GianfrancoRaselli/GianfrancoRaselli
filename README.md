@@ -21,7 +21,7 @@ const GIANFRANCO = {
   backend: ['Node.js', 'Golang', 'Java', 'Python', 'API REST', 'Graphql'],
   database: ['MySQL', 'MongoDB', 'Mongoose'],
   blockchain: ['Ethereum', 'Solidity', 'Web3.js', 'MetaMask', 'Hardhat', 'Truffle'],
-  otherTools: ['GitHub', 'Scrum', 'Testing', 'VSCode', 'ClickUp'],
+  otherTools: ['GitHub', 'Docker', 'Scrum', 'Testing', 'VSCode', 'ClickUp'],
   languages: ['Spanish', 'English'],
   hobbies: ['Programming', 'Cryptos', 'Sports']
 }
