@@ -18,7 +18,7 @@
 ```javascript
 const GIANFRANCO = {
   frontend: ['Vue3', 'Angular', 'Bootstrap', 'HTML5', 'CSS3', 'Sass', 'JavaScript', 'TypeScript'],
-  backend: ['NodeJS', 'Golang', 'Java', 'Python', 'API REST', 'Graphql'],
+  backend: ['Node.js', 'Golang', 'Java', 'Python', 'API REST', 'Graphql'],
   database: ['MySQL', 'MongoDB', 'Mongoose'],
   blockchain: ['Ethereum', 'Solidity', 'Web3.js', 'MetaMask', 'Hardhat', 'Truffle'],
   otherTools: ['GitHub', 'Scrum', 'Testing', 'VSCode', 'ClickUp'],
