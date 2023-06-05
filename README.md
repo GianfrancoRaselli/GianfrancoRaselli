@@ -20,7 +20,7 @@ const GIANFRANCO = {
   frontend: ['Vue3', 'Angular', 'Bootstrap', 'HTML5', 'CSS3', 'Sass', 'JavaScript', 'TypeScript'],
   backend: ['NodeJS', 'Golang', 'Java', 'Python', 'API REST', 'Graphql'],
   database: ['MySQL', 'MongoDB', 'Mongoose'],
-  blockchain: ['Ethereum', 'Solidity', 'web3.js', 'MetaMask', 'Hardhat', 'Truffle'],
+  blockchain: ['Ethereum', 'Solidity', 'Web3.js', 'MetaMask', 'Hardhat', 'Truffle'],
   otherTools: ['GitHub', 'Scrum', 'Testing', 'VSCode', 'ClickUp'],
   languages: ['Spanish', 'English'],
   hobbies: ['Programming', 'Cryptos', 'Sports']
