@@ -6,7 +6,7 @@
 </p>
 <p>
   <em>
-    23 Years Old
+    24 Years Old
   </em>
 </p>
 
@@ -17,11 +17,11 @@
 
 ```javascript
 const GIANFRANCO = {
-  frontend: ['Vue3', 'Angular', 'Bootstrap', 'HTML5', 'CSS3', 'Sass', 'JavaScript', 'TypeScript'],
-  backend: ['Node.js', 'Golang', 'Java', 'Python', 'API REST', 'Graphql'],
+    frontend: ['Vue3', 'Angular', 'Bootstrap', 'HTML5', 'CSS3', 'Stylus', 'JavaScript', 'TypeScript'],
+  backend: ['Node.js', 'Golang', 'Python', 'Java', 'API REST', 'Graphql'],
   database: ['MySQL', 'MongoDB', 'Mongoose'],
-  blockchain: ['Ethereum', 'Solidity', 'Web3.js', 'MetaMask', 'Hardhat', 'Truffle'],
-  otherTools: ['GitHub', 'Docker', 'Scrum', 'Testing', 'VSCode', 'ClickUp'],
+  blockchain: ['Ethereum', 'Solidity', 'Web3.js', 'MetaMask', 'Hardhat'],
+  otherTools: ['GitHub', 'Docker', 'Scrum', 'Testing', 'VSCode'],
   languages: ['Spanish', 'English'],
   hobbies: ['Programming', 'Cryptos', 'Sports']
 }
